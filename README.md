@@ -1,5 +1,4 @@
-# react-native-apod-expo-49-typescript
-# My Expo React Native Project
+# APOD Expo React Native Project
 
 ![alt android](assets/react-native-android.jpg)
 
