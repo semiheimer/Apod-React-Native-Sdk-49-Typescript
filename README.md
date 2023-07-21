@@ -22,7 +22,7 @@ Follow the instructions below to get a copy of the project up and running on you
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/my-expo-react-native-project.git
+git clone 
 cd my-expo-react-native-project
 npm install
 # or
