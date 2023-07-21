@@ -3,7 +3,7 @@
 ![alt android](assets/react-native-android.jpg)
 
 ![React Native](https://img.shields.io/badge/React%20Native-0.72.0-blue)
-![Expo](https://img.shields.io/badge/Expo-43.0.0-lightgrey)
+![Expo](https://img.shields.io/badge/Expo-49.0.0-lightgrey)
 
 One of the most popular websites at NASA is the Astronomy Picture of the Day (APOD).
 Get API KEY and paste in .env file as EXPO_PUBLIC_API_KEY="your token"
